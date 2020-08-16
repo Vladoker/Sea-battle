@@ -1,1 +1,1 @@
-# Sea-battle
+## Sea-battle console app
